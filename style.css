@@ -40,7 +40,7 @@ body {
     50% {
         opacity: 1;
         filter: blur(0);
-        transform: translate(30px, -30px);
+        transform: translate(30px, 30px);
     }
     100% {
         opacity: 0;
